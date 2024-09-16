@@ -1,0 +1,7 @@
+@import url('./fonts.css'); /* Font imports & preset classes */
+
+html { background-color: #252525; }
+
+body {
+    color: #EEEEEE;
+}
